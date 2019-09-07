@@ -1,0 +1,44 @@
+1randomDoubleEvent	475	FALSE	FALSE	FALSE
+2randomDoubleEvent	34	FALSE	FALSE	FALSE
+3randomDoubleEvent	456	FALSE	TRUE	TRUE
+4randomDoubleEvent	48	TRUE	TRUE	TRUE
+5randomDoubleEvent	551	FALSE	FALSE	FALSE
+6randomDoubleEvent	633	FALSE	FALSE	FALSE
+7randomDoubleEvent	60	TRUE	TRUE	TRUE
+8randomDoubleEvent	591	FALSE	TRUE	TRUE
+9randomDoubleEvent	84	FALSE	FALSE	FALSE
+10randomDoubleEvent	376	FALSE	FALSE	FALSE
+1 0.2 0.8	0.4	0.8	0.4
+1randomRemoveEvent	193	TRUE	FALSE	FALSE
+2randomRemoveEvent	231	FALSE	TRUE	TRUE
+3randomRemoveEvent	826	FALSE	FALSE	FALSE
+4randomRemoveEvent	227	FALSE	FALSE	FALSE
+5randomRemoveEvent	833	FALSE	TRUE	TRUE
+6randomRemoveEvent	532	FALSE	FALSE	FALSE
+7randomRemoveEvent	906	TRUE	FALSE	FALSE
+8randomRemoveEvent	204	FALSE	FALSE	FALSE
+9randomRemoveEvent	696	TRUE	FALSE	FALSE
+10randomRemoveEvent	951	FALSE	TRUE	TRUE
+1 0.3 0.75	0.3	0.75	0.3
+1randomDoubleBytes	564	FALSE	TRUE	TRUE
+2randomDoubleBytes	1339	FALSE	TRUE	TRUE
+3randomDoubleBytes	1422	FALSE	TRUE	TRUE
+4randomDoubleBytes	1811	FALSE	TRUE	TRUE
+5randomDoubleBytes	1735	FALSE	TRUE	TRUE
+6randomDoubleBytes	1471	FALSE	TRUE	TRUE
+7randomDoubleBytes	691	FALSE	FALSE	FALSE
+8randomDoubleBytes	392	FALSE	TRUE	TRUE
+9randomDoubleBytes	1785	FALSE	TRUE	TRUE
+10randomDoubleBytes	1694	FALSE	TRUE	TRUE
+0 0 0.9	0.9	0.9	0.9
+1randomScheduleEvent	392	FALSE	TRUE	TRUE
+2randomScheduleEvent	824	FALSE	FALSE	TRUE
+3randomScheduleEvent	1466	FALSE	FALSE	TRUE
+4randomScheduleEvent	1804	FALSE	FALSE	FALSE
+5randomScheduleEvent	820	FALSE	FALSE	TRUE
+6randomScheduleEvent	161	FALSE	FALSE	FALSE
+7randomScheduleEvent	126	FALSE	TRUE	TRUE
+8randomScheduleEvent	162	FALSE	TRUE	TRUE
+9randomScheduleEvent	1250	FALSE	FALSE	TRUE
+10randomScheduleEvent	1168	FALSE	FALSE	TRUE
+0 0 0.75	0.3	0.8888889	0.8
